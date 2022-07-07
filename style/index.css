@@ -81,6 +81,7 @@ option {
     color: #fff;
     border-radius: 5px;
     font-size: 15px;
+    border:none;
 }
 
 .sign-in-btn:hover {
@@ -559,6 +560,7 @@ footer div {
         color: #fff;
         border-radius: 5px;
         font-size: 15px;
+        border:none;
     }
 
     .sign-in-btn:hover {
